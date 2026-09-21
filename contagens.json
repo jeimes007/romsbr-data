@@ -1,1 +1,14 @@
-{"n64":1066,"game-gear":258,"master-system":311,"gbc":455,"mega-drive":1274,"game-boy":6012,"nes":6903,"snes":760,"gba":20,"atari":2727,"psp":84}
+{
+  "N64": 1066,
+  "Game Gear": 258,
+  "Master System": 311,
+  "GBC": 455,
+  "Mega Drive": 1274,
+  "Game Boy": 6012,
+  "NES": 6903,
+  "SNES": 760,
+  "GBA": 20,
+  "Atari": 2727,
+  "PSP": 149,
+  "PS1": 209
+}
